@@ -1,3 +1,5 @@
 ### go-http-client
 ### Version 1.0
-1. 将 [fasthttp](https://github.com/valyala/fasthttp) 进行封装
+1. Get 请求
+1. Post form 请求
+1. Post json 请求
